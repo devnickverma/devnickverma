@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
-<h3 align="center">A passionate fulstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [CodeShort](https://github.com/devnickverma/CodeShort.git)
 
