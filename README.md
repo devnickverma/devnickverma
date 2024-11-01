@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 
-- 🔭 I’m currently working on [CodeShort](https://github.com/devnickverma/CodeShort.git)
-- 🌱 I’m currently learning **React.js**! You can check out the official documentation [here](https://react.dev/).
-- 👨‍💻 All of my projects are available at [my portfolio](https://devnickverma.github.io/portfolio/)
-- 📫 How to reach me: **devnickverma@gmail.com**
-- ⚡ Fun fact: **My life goal is to become as organized as my code comments—one day!**
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/devnickverma/CodeShort.git">CodeShort</a></li>
+  <li>🌱 I’m currently learning <strong>React.js</strong>! You can check out the official documentation <a href="https://react.dev/">here</a>.</li>
+  <li>👨‍💻 All of my projects are available at <a href="https://devnickverma.github.io/portfolio/">my portfolio</a></li>
+  <li>📫 How to reach me: <strong>devnickverma@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>My life goal is to become as organized as my code comments—one day!</strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
