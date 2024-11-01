@@ -2,16 +2,10 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [CodeShort](https://github.com/devnickverma/CodeShort.git)
-
-- 🌱 I’m currently learning **React js**
-
-- 👨‍💻 All of my projects are available at [https://devnickverma.github.io/portfolio/](https://devnickverma.github.io/portfolio/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **devnickverma@gmail.com**
-
-- ⚡ Fun fact **My life goal is to become as organized as my code comments—one day!**
+- 🌱 I’m currently learning **React.js**! You can check out the official documentation [here](https://react.dev/).
+- 👨‍💻 All of my projects are available at [my portfolio](https://devnickverma.github.io/portfolio/)
+- 📫 How to reach me: **devnickverma@gmail.com**
+- ⚡ Fun fact: **My life goal is to become as organized as my code comments—one day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,8 +32,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnickverma&show_icons=true&locale=en&layout=compact&theme=radical" alt="devnickverma" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devnickverma&show_icons=true&locale=en&layout=compact&theme=radical" alt="devnickverma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devnickverma&show_icons=true&locale=en&theme=radical" alt="devnickverma" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devnickverma&show_icons=true&locale=en&theme=radical" alt="devnickverma" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devnickverma&theme=radical" alt="devnickverma" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnickverma&theme=radical" alt="devnickverma" />
+</p>
