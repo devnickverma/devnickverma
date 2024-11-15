@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
-
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 
 <ul>
