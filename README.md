@@ -76,6 +76,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=devnickverma&show_icons=true&locale=en&theme=radical" alt="devnickverma" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnickverma&theme=radical" alt="devnickverma" />
+<p>
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=devnickverma&theme=radical" alt="GitHub Streak Stats" />
+  </a>
 </p>
