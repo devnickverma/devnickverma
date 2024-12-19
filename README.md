@@ -10,7 +10,7 @@
 
 I am a ``quick learner`` and a ``team player``, always seeking to enhance my skills and contribute to the success of a project.
 <br/>
-<li>🔭 I’m currently working on <a href="https://github.com/devnickverma/CodeShort.git">CodeShort</a></li>
+<li>🔭 I’m currently working on <a href="https://github.com/devnickverma/ExPro.git">ExPro</a></li>
   <li>🌱 I’m currently learning <strong>React.js</strong>! You can check out the official documentation <a href="https://react.dev/">here</a>.</li>
   <li>👨‍💻 All of my projects are available at <a href="https://devnickverma.github.io/portfolio/">my portfolio</a></li>
   <li>📫 How to reach me: <strong>devnickverma@gmail.com</strong></li>
