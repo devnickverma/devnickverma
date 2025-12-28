@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
-<h3 align="center">A Passionate Fullstack Developer From India</h3>
-
+<h3 align="center">An AI/ML Enthusiast & Software Developer from India</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/devnickverma/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/devnickverma/count.svg?" />
 </div>
 
 ###
 
-I am a ``quick learner`` and a ``team player``, always seeking to enhance my skills and contribute to the success of a project.
-<br/>
-<li>🔭 I’m currently working on <a href="https://github.com/devnickverma/mark2notion.git">Mark2Notion</a></li>
-  <li>🌱 I’m currently learning <strong>React.js</strong>! You can check out the official documentation <a href="https://react.dev/">here</a>.</li>
-  <li>👨‍💻 All of my projects are available at <a href="https://devnickverma.github.io/portfolio/">my portfolio</a></li>
-  <li>📫 How to reach me: <strong>devnickverma@gmail.com</strong></li>
-  <li>⚡ Fun fact: <strong>My life goal is to become as organized as my code comments—one day!</strong></li>
+I am a <strong>quick learner</strong> and a <strong>team player</strong> with a strong interest in building intelligent, practical, and human-centric applications. I enjoy working on AI/ML systems, computer vision, and backend-driven projects, while also leveraging modern web and mobile technologies to deliver complete, end-to-end solutions.
+<br/><br/>
+
+<li>🔭 I’m currently working on <strong>an AI/ML-based project</strong> (link coming soon)</li>
+<li>🌱 I’m currently learning and exploring <strong>AI/ML, Computer Vision, and Generative AI</strong></li>
+<li>👨‍💻 All of my projects are available at <a href="https://devnickverma.github.io/portfolio/">my portfolio</a></li>
+<li>📫 How to reach me: <strong>devnickverma@gmail.com</strong></li>
+<li>⚡ Fun fact: <strong>I enjoy turning complex problems into clean, structured solutions—both in code and in design.</strong></li>
+
 
 ## 👨🏽‍🤝‍👨🏾 Socials
 
