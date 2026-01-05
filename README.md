@@ -10,7 +10,7 @@
 I am a <strong>quick learner</strong> and a <strong>team player</strong> with a strong interest in building intelligent, practical, and human-centric applications. I enjoy working on AI/ML systems, computer vision, and backend-driven projects, while also leveraging modern web and mobile technologies to deliver complete, end-to-end solutions.
 <br/><br/>
 
-<li>🔭 I’m currently working on <strong>an AI/ML-based project</strong> (link coming soon)</li>
+<li>🔭 I’m currently working on <strong>an AI/ML-based project</strong> <a href"https://github.com/devnickverma/Let-s_Fight">Let's Fight</a></li>
 <li>🌱 I’m currently learning and exploring <strong>AI/ML, Computer Vision, and Generative AI</strong></li>
 <li>👨‍💻 All of my projects are available at <a href="https://devnickverma.github.io/portfolio/">my portfolio</a></li>
 <li>📫 How to reach me: <strong>devnickverma@gmail.com</strong></li>
